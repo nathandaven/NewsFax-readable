@@ -10,7 +10,7 @@
 body {
 	margin-left: auto;
 	margin-right: auto;
-	background: #222222;
+	background: #151515;
 	word-wrap: break-word;
 	max-width: 50em;
 	color: white;
@@ -592,11 +592,12 @@ a.footnote:hover,
 		padding-left: 20px;
 		padding-right: 20px;
 		font-family:  -apple-system;
+                background-color: black;
 	}
 
 	:root {
-		--primary-accent-color:rgba(110, 227, 231, 1);
-		--secondary-accent-color: rgba(110, 227, 231, 1);
+		--primary-accent-color:rgb(102 237 62);
+		--secondary-accent-color: rgb(83 194 51);
 		--block-quote-border-color: rgba(94, 158, 244, 0.75);
 		--header-table-border-color: rgba(255, 255, 255, 0.2);
 	}
