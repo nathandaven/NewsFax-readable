@@ -6,4 +6,11 @@ I liked this theme but jsut found the monospacing not great for actual article r
 
 Remote control not included.
 
-<img width="1112" alt="Screenshot 2025-01-10 at 4 55 49 PM" src="https://github.com/user-attachments/assets/2ee4cb54-3787-48b9-b927-369291567090" />
+
+#### Mac
+
+<img src="https://github.com/user-attachments/assets/de18049a-8aaa-43df-9808-950acddab31f" width="600rem">
+
+#### Mobile
+
+<img src="https://github.com/user-attachments/assets/1603bb51-2a12-4f38-be3a-d25b749bb0a8" width="300rem">
