@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Name</key>
-	<string>NewsFax</string>
+	<string>NewsFax-readable</string>
 	<key>ThemeIdentifier</key>
-	<string>com.mynameisstuart.themes.newsfax</string>
+	<string>com.mynameisstuart.themes.newsfax-readable</string>
 	<key>CreatorHomePage</key>
-	<string>https://mynameisstuart.com/</string>
+	<string>https://nathandaven.com/</string>
 	<key>CreatorName</key>
-	<string>Stuart Breckenridge</string>
+	<string>Nathan Davenport</string>
 	<key>Version</key>
 	<integer>1</integer>
 </dict>

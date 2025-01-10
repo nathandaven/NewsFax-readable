@@ -10,9 +10,9 @@
 body {
 	margin-left: auto;
 	margin-right: auto;
-	background: black;
+	background: #222222;
 	word-wrap: break-word;
-	max-width: 44em;
+	max-width: 50em;
 	color: white;
 }
 
@@ -142,8 +142,8 @@ body > .systemMessage {
 .articleTitle a:link, .articleTitle a:visited, .articleTitle h1 {
 	color: var(--article-title-color);
 	margin-top: 26px;
-	padding-bottom: 12px;
-	padding-top: 10px;
+	padding-bottom: 2rem;
+	padding-top: 2rem;
 	text-align: center;
 	text-transform: uppercase;
 	margin: auto;
@@ -591,7 +591,7 @@ a.footnote:hover,
 		margin-bottom: 20px;
 		padding-left: 20px;
 		padding-right: 20px;
-		font-family: 'ModeSeven', -apple-system;
+		font-family:  -apple-system;
 	}
 
 	:root {
@@ -643,7 +643,7 @@ a.footnote:hover,
 		margin-bottom: 64px;
 		padding-left: 48px;
 		padding-right: 48px;
-		font-family: 'ModeSeven', -apple-system;
+		font-family: -apple-system;
 	}
 
 	.smallText {
@@ -667,7 +667,7 @@ a.footnote:hover,
 	}
 
 	:root {
-		--accent-color: rgba(110, 227, 231, 1);
+		--accent-color: rgb(102 237 62);
 		--block-quote-border-color: rgba(94, 158, 244, .50);
 		--header-table-border-color: rgba(255, 255, 255, 0.1);
 	}
